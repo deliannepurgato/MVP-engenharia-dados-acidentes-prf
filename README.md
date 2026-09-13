@@ -26,7 +26,7 @@ O pipeline foi estruturado utilizando a arquitetura medalhão:
 
 ## Arquivos do projeto
 
-- [Notebook do projeto](./MVP_Engenharia_Dados_Acidentes_PRF_2025.ipynb)
+- [Notebook do projeto](./MVP%20-%20Engenharia%20de%20Dados%20-%20Acidentes%20PRF%202025.ipynb)
 - [Relatório completo do MVP](./MVP_Engenharia_Dados_Acidentes_PRF_2025.pdf)
 - [Dataset utilizado](./datatran2025.csv)
 
